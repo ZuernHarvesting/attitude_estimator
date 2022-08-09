@@ -1,0 +1,1 @@
+add_library(attitude_estimator src/attitude_estimator.cpp)
