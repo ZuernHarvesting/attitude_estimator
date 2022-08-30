@@ -1,1 +1,2 @@
 add_library(attitude_estimator src/attitude_estimator.cpp)
+target_include_directories(attitude_estimator PUBLIC src)
